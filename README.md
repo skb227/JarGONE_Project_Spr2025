@@ -19,10 +19,9 @@ We understand how difficult it is to understand legal jargon and terms, especial
 ### Usage Instructions
 1. Clone the repository using the ssh key
 2. Install dependencies with `npm install`
-  * Make sure to install firebase, vite, react-router-dom
-4. Start the backend with `python app.py`
-5. Start the database with `python auth.py`
-6. Run the frontend with `npm run dev`
+   - Make sure to install firebase, vite, react-router-dom
+3. Start the database with `python auth.py`
+4. Run the frontend with `npm run dev`
 
 ### Future Improvements
 * Add full AI chat box support to allow users to ask specific questions
